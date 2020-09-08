@@ -1,5 +1,4 @@
 # About Me
-My name is Kevin Pennington i am currently a ACN Masters Student at UTD with an interest in machine learning and advanced neural networks.
 
 # Interests
 
