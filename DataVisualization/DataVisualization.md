@@ -1,5 +1,5 @@
 # Video Review Assignment
-[Video Review](TestText.docx)
+[Video Review](TestText.txt)
 
 # Interesting Images
 ![Image of Yaktocat](test.jpg)
