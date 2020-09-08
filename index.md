@@ -10,5 +10,5 @@ Syntax highlighted code block
 
 # Header 1
 
-[Link](www.google.com) and ![Image](src)
+[Link](/DataVisualization) and ![Image](src)
 For more details see GitHub Flavored Markdown.
