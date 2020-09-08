@@ -1,5 +1,5 @@
 # Video Review Assignment
-[Video Review](TestText.pdf)
+[Video Review](Journalism%20in%20the%20Age%20of%20Data%20Review.pdf)
 
 # Interesting Images
-![Image of Yaktocat](test.jpg)
+
