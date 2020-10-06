@@ -19,7 +19,7 @@ plt.show()
 ```
 
 [Code File](main.py)<br/>
-[Figure 1](fig1.png)<br/>
+[Figure 1](fig1.png)
 [Figure 2](fig2.png)<br/>
 
 # Interesting Images
