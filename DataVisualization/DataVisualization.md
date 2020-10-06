@@ -17,7 +17,8 @@ plt.show()
 fig2 = sns.barplot(x=df['fare'],y=df['class'],hue=df['sex'],estimator=sum,orient="h")
 plt.show()
 ```
-
+(fig1.png)
+(fig2.png)
 [Code File](main.py)<br/>
 [Figure 1](fig1.png)
 [Figure 2](fig2.png)<br/>
