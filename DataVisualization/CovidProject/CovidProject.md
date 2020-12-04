@@ -35,5 +35,6 @@ In this visualization, we compare COVID symptom profiles with other major medica
 5:Previous epidemics either of minimal scale eg ebola or before modern documentation practices to truly compare to eg spanish flu
 6:Ongoing epidemic and thus the data will always include a factor of unknown amount of incompleteness
 
-# Link To Full Project Report
+# Link To Full Project Report and Code with Data Files
 [Project Report](Data%20Vis%20Final%20Project%20Report.pdf)<br/>
+[Code and Data Files](CovidSympt.zip)<br/>
