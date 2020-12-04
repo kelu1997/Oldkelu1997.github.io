@@ -6,7 +6,7 @@
 [Covid 3D Idea Tests](3dtest.mp4)
 
 # Original Covid Idea
-[Covid original Idea Drawing]datavisdemo.png)
+[Covid original Idea Drawing](datavisdemo.png)
 
 # Chart Examples and Assignments
 ```python
