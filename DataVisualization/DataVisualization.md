@@ -59,4 +59,4 @@ d + geom_bar(aes(fill = state), colour = "black") + theme_bw() + coord_flip()+
 # OverFitting
 [ OverFitting](Overfitting.docx)
 # Video Review Assignment
-[Video Review](Journalism%20in%20the%20Age%20of%20Data%20Review.pdf)
+[Video Review](Jurnalism%20in%20the%20Age%20of%20Data%20Review.pdf)
