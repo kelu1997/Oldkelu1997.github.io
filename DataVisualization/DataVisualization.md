@@ -1,6 +1,6 @@
 
 # Covid Final Project
-[Covid Final Project](/CovidProject)
+[Covid Final Project](./CovidProject)
 
 
 # Video Review Assignment
