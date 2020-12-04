@@ -19,3 +19,5 @@ In this visualization, we compared symptom sensitivity between COVID19 and influ
 ![Covid Symptom Presence In Other Major Dieseases Comparison](Figure_2.png)<br/>
 
 In this visualization, we compare COVID symptom profiles with other major medical conditions based merely on the presence or absence of certain symptoms found in COVID19. The rightmost bar displays COVID19 and it's symptoms and all the colored bars for each individual symptom (headache, fever,etc). This provides a good visualization of the degree of similarity between COVID and the other diseases we our project compared it to. 
+
+[Full Project Report](Data_Vis_Final_Project_Report.pdf)<br/>
