@@ -3,7 +3,7 @@
 [Covid Final Project](./CovidProject/CovidProject)
 
 # Original Covid project tests
-[Covid Final Project](./CovidProject/CovidProject)
+[Covid Idea Tests](3dtest.mp4)
 
 
 # Chart Examples and Assignments
