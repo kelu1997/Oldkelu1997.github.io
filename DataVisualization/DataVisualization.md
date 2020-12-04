@@ -8,6 +8,9 @@
 # Original Covid Idea
 ![Covid original Idea Drawing](datavisdemo.png)
 
+## Covid Project Proposal
+[Project Proposal](https://docs.google.com/presentation/d/1YSx9sqOEBDdrs0fYi7pW-t5AgNWZdpamZwOohceYotI/edit?usp=sharing)
+
 # Chart Examples and Assignments
 ```python
 import matplotlib.pyplot as plt
