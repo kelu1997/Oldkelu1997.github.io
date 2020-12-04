@@ -30,12 +30,12 @@ In this visualization, we compare COVID symptom profiles with other major medica
 
 
 # Summary of Primary Findings and Current Limitations of This Project Design(For more detailed analyis see full report)
-1:Covid only mass scaled lab tested disease in modern history limiting accuracy of non-covid disease diagnosis and data
-2:Lack of symptomatic percentile breakdown atleast on publicly available data: likely partially due to lack of lab testing to confirm diagnosis and thus reluctance to publish data
-3:Even when percentile symptomatic breakdown exists almost never includes multi symptom percentile that would be required to compare symptom combinations
-4:Lack of truly comparable disease, no regularly occurring disease aside from influenza comes close to covid in case scale/death count
-5:Previous epidemics either of minimal scale eg ebola/zika virus or before modern documentation practices to truly compare to eg spanish flu
-6:Ongoing epidemic and thus the data will always include a factor of unknown amount of incompleteness
+1:Covid only mass scaled lab tested disease in modern history limiting accuracy of non-covid disease diagnosis and data<br/>
+2:Lack of symptomatic percentile breakdown atleast on publicly available data: likely partially due to lack of lab testing to confirm diagnosis and thus reluctance to publish data<br/>
+3:Even when percentile symptomatic breakdown exists almost never includes multi symptom percentile that would be required to compare symptom combinations<br/>
+4:Lack of truly comparable disease, no regularly occurring disease aside from influenza comes close to covid in case scale/death count<br/>
+5:Previous epidemics either of minimal scale eg ebola/zika virus or before modern documentation practices to truly compare to eg spanish flu<br/>
+6:Ongoing epidemic and thus the data will always include a factor of unknown amount of incompleteness<br/>
 
 # Link To Full Project Report
 [Project Report](Data%20Vis%20Final%20Project%20Report.pdf)<br/>
