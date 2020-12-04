@@ -28,5 +28,5 @@ plt.show()
 [Code File](main.py)<br/>
 
 # Interesting Chart Ideas and Tests
-![Figure 1](test1.png)
-![Figure 2](test3.png)<br/>
+![Figure 1](Test1.png)
+![Figure 2](Test3.png)<br/>
