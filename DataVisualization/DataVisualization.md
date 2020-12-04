@@ -27,5 +27,6 @@ plt.show()
 ![Figure 2](fig2.png)<br/>
 [Code File](main.py)<br/>
 
-# Interesting Images
-
+# Interesting Chart Ideas and Tests
+![Figure 1](test1.png)
+![Figure 2](test3.png)<br/>
