@@ -1,6 +1,6 @@
 
 # Original Goal
-To investiagate Covid 19 and examine how the presence or lack of presence of symtpons and various symptom combinations alter the likelihood of the diagnosis being Covid compared to other diseases sharing Covid symptoms.
+To investigate Covid 19 and examine how the presence or lack of presence of symtpons and various symptom combinations alter the likelihood of the diagnosis being Covid compared to other diseases sharing Covid symptoms.
 
 # End Result
 Project became more a showing of how lmited our medical data is for such fine detail statistical level breakdowns of diseases. Has been no real need for such a breakdown before Covid 19 so it simply never occured, previously diagnosis all relied on a doctors best guess based on symptom profile not any kind of probability likliehood, this while having been sufficient before now will become a hindrance as machine learning starts becoming integrated into medical practices at an increasing rate and such systems will require a far greater amount of data than we have ever had before.
