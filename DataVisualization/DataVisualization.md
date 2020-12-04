@@ -2,6 +2,10 @@
 # Covid Final Project
 [Covid Final Project](./CovidProject/CovidProject)
 
+# Original Covid project tests
+[Covid Final Project](./CovidProject/CovidProject)
+
+
 # Chart Examples and Assignments
 ```python
 import matplotlib.pyplot as plt
