@@ -2,8 +2,8 @@
 # Covid Final Project
 [Covid Final Project](./CovidProject/CovidProject)
 
-# Covid project tests
-![Covid 3D Idea Tests](3dtest.mp4)
+# Covid project tests (Video Link)
+[Covid 3D Idea Tests](3dtest.mp4)
 
 # Original Covid Idea
 ![Covid original Idea Drawing](datavisdemo.png)
