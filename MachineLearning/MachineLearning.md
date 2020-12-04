@@ -11,5 +11,5 @@ More recent 512x512 resolution with a fid of ~24 in about 16 hours of training
 ### Original Nvidia StyleGan, Current State of the art
 [StyleGan2](https://github.com/NVlabs/stylegan2)<br>
 [StyleGan2-Improved](https://github.com/NVlabs/stylegan2-ada)
-### Lightweight Pytorch Gan modified version was used for above images, faster and lower hadware requirements but lower than STOA quality
+### Lightweight Pytorch Gan: modified version was used for above images, faster and lower hadware requirements but lower than STOA quality
 [PytorchGan](https://github.com/lucidrains/lightweight-gan)
