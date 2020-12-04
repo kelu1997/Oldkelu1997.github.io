@@ -3,10 +3,10 @@
 [Covid Final Project](./CovidProject/CovidProject)
 
 # Covid project tests
-[Covid 3D Idea Tests](3dtest.mp4)
+![Covid 3D Idea Tests](3dtest.mp4)
 
 # Original Covid Idea
-[Covid original Idea Drawing](datavisdemo.png)
+![Covid original Idea Drawing](datavisdemo.png)
 
 # Chart Examples and Assignments
 ```python
