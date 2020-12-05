@@ -29,7 +29,8 @@ In this visualization, we compared symptom sensitivity between COVID19 and influ
 In this visualization, we compare COVID symptom profiles with other major medical conditions based merely on the presence or absence of certain symptoms found in COVID19. The rightmost bar displays COVID19 and it's symptoms and all the colored bars for each individual symptom (headache, fever,etc). This provides a good visualization of the degree of similarity between COVID and the other diseases we our project compared it to. 
 
 
-# Summary of Primary Findings and Current Limitations of This Project Design(For more detailed analyis see full report)
+# Summary of Primary Findings and Current Limitations of This Project Design
+### (For more detailed analysis see full report)
 1:Covid only mass scaled lab tested disease in modern history limiting accuracy of non-covid disease diagnosis and data<br/>
 2:Lack of symptomatic percentile breakdown atleast on publicly available data: likely partially due to lack of lab testing to confirm diagnosis and thus reluctance to publish data<br/>
 3:Even when percentile symptomatic breakdown exists almost never includes multi symptom percentile that would be required to compare symptom combinations<br/>
