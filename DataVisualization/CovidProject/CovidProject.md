@@ -1,3 +1,4 @@
+# [BACK](..)
 
 # Original Goal
 To investigate Covid 19 and examine how the presence or lack of presence of symtpons and various symptom combinations alter the likelihood of the diagnosis being Covid compared to other diseases sharing Covid symptoms.
